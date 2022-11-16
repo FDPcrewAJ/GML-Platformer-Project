@@ -46,3 +46,17 @@ if (!place_meeting(x,y+1,obj_invisible_wall))
 	image_speed = 0;
 	if (vsp > 0) image_index = 4; else image_index = 2;	
 }
+else
+{
+	image_speed = 1;
+	if (hsp == 0)
+	{
+		sprite_index = spr_edggar_idle;	
+	}
+	else
+	{
+		sprite_index = spr_edggar_run;	
+	}
+}
+
+if (hsp != 0) image_xscale = sign(hsp);
