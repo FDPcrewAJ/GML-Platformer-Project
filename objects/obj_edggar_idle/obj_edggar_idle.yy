@@ -9,7 +9,10 @@
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "spr_edggar_idle",
+    "path": "sprites/spr_edggar_idle/spr_edggar_idle.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
