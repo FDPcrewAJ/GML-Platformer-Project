@@ -33,7 +33,7 @@ if (place_meeting(x,y+vsp,obj_invisible_wall))
 {
 	while (!place_meeting(x,y+sign(vsp),obj_invisible_wall))
 	{
-		y = y + sign(hsp);
+		y = y + sign(vsp);
 	}
 	vsp = 0;
 }
