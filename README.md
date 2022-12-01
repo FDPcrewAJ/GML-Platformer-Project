@@ -5,6 +5,10 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 * [Platformer Tutorial (GML) - Par 1](https://youtu.be/2z4981CxFkw)
 * [Platformer Tutorial (GML) - Par 2](https://youtu.be/CUFm5DZm-A8)
 
+***Features***:
+* Movment and Jumping
+* Collision
+
 ***Notes***: 
 
 * The environment was set up using GMS version 2022.9.1.51. 
