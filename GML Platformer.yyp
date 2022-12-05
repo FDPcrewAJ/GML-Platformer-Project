@@ -5,9 +5,11 @@
   "resources": [
     {"id":{"name":"spr_platforms","path":"sprites/spr_platforms/spr_platforms.yy",},"order":9,},
     {"id":{"name":"spr_rock_decal","path":"sprites/spr_rock_decal/spr_rock_decal.yy",},"order":10,},
+    {"id":{"name":"spr_edggar_jump_down","path":"sprites/spr_edggar_jump_down/spr_edggar_jump_down.yy",},"order":13,},
     {"id":{"name":"spr_walls","path":"sprites/spr_walls/spr_walls.yy",},"order":5,},
     {"id":{"name":"tl_platforms","path":"tilesets/tl_platforms/tl_platforms.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":11,},
+    {"id":{"name":"spr_edggar_jump_up","path":"sprites/spr_edggar_jump_up/spr_edggar_jump_up.yy",},"order":12,},
     {"id":{"name":"tl_walls","path":"tilesets/tl_walls/tl_walls.yy",},"order":0,},
     {"id":{"name":"spr_edggar_run","path":"sprites/spr_edggar_run/spr_edggar_run.yy",},"order":1,},
     {"id":{"name":"spr_edggar_idle","path":"sprites/spr_edggar_idle/spr_edggar_idle.yy",},"order":2,},

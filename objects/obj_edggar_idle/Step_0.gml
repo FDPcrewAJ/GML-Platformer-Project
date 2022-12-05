@@ -42,9 +42,10 @@ y = y + vsp;
 //Animation
 if (!place_meeting(x,y+1,obj_invisible_wall))
 {
-	sprite_index = spr_edggar_jump;
-	image_speed = 0;
-	if (vsp > 0) image_index = 4; else image_index = 2;	
+	sprite_index = spr_edggar_jump; //Potentially Delete this if you do the animation swtich
+	image_speed = 1;
+
+	if (vsp > 0) sprite_index = spr_edggar_jump_down; else sprite_index = spr_edggar_jump_up;  //swtich "sprite_index" back to "image_index" with the correct frames if you do animation switching differently
 }
 else
 {
