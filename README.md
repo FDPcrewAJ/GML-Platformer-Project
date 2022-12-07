@@ -8,6 +8,8 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 ***Features***:
 * Movment and Jumping
 * Collision
+* Custom Maps
+
 
 ***Notes***: 
 
