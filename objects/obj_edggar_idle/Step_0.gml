@@ -44,7 +44,6 @@ if (!place_meeting(x,y+1,obj_invisible_wall))
 {
 	sprite_index = spr_edggar_jump;
 
-
 	// Are we jumping?
 	if (vsp < -0.5) {
 		image_index = 1;
@@ -59,15 +58,16 @@ if (!place_meeting(x,y+1,obj_invisible_wall))
 	}
 }
 else
-{
+{	//switch to Idle if not moving
 	if (hsp == 0)
 	{
 		sprite_index = spr_edggar_idle;	
 	}
 	else
 	{
+	//Swtitch to walking if we are moving
 		sprite_index = spr_edggar_walk;	
 	}
 }
-
+	//Turn to face the direction we are moving
 if (hsp != 0) image_xscale = sign(hsp);

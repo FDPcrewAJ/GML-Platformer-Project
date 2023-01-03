@@ -1,4 +1,4 @@
 /// @desc
-room_goto(rm_1);
+room_goto(rm_4);
 
 

@@ -7,6 +7,7 @@
     {"id":{"name":"spr_title_screen","path":"sprites/spr_title_screen/spr_title_screen.yy",},"order":13,},
     {"id":{"name":"spr_warp","path":"sprites/spr_warp/spr_warp.yy",},"order":10,},
     {"id":{"name":"spr_rock_decal1","path":"sprites/spr_rock_decal1/spr_rock_decal1.yy",},"order":6,},
+    {"id":{"name":"spr_rock_decal3","path":"sprites/spr_rock_decal3/spr_rock_decal3.yy",},"order":15,},
     {"id":{"name":"obj_fall_warp","path":"objects/obj_fall_warp/obj_fall_warp.yy",},"order":3,},
     {"id":{"name":"spr_edggar_jump_down","path":"sprites/spr_edggar_jump_down/spr_edggar_jump_down.yy",},"order":9,},
     {"id":{"name":"obj_room_warp","path":"objects/obj_room_warp/obj_room_warp.yy",},"order":2,},
