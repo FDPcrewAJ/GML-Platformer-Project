@@ -1,0 +1,3 @@
+/// @desc
+
+deaths = 0;

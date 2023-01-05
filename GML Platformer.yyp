@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "GML Platformer",
   "resources": [
+    {"id":{"name":"obj_death_counter","path":"objects/obj_death_counter/obj_death_counter.yy",},"order":6,},
     {"id":{"name":"spr_platforms","path":"sprites/spr_platforms/spr_platforms.yy",},"order":5,},
     {"id":{"name":"spr_title_screen","path":"sprites/spr_title_screen/spr_title_screen.yy",},"order":13,},
     {"id":{"name":"spr_warp","path":"sprites/spr_warp/spr_warp.yy",},"order":10,},
@@ -28,6 +29,7 @@
     {"id":{"name":"obj_invisible_wall","path":"objects/obj_invisible_wall/obj_invisible_wall.yy",},"order":1,},
     {"id":{"name":"obj_title_text","path":"objects/obj_title_text/obj_title_text.yy",},"order":5,},
     {"id":{"name":"spr_edggar_walk","path":"sprites/spr_edggar_walk/spr_edggar_walk.yy",},"order":0,},
+    {"id":{"name":"Death","path":"fonts/Death/Death.yy",},"order":0,},
     {"id":{"name":"spr_title_text","path":"sprites/spr_title_text/spr_title_text.yy",},"order":14,},
     {"id":{"name":"spr_rock_decal4","path":"sprites/spr_rock_decal4/spr_rock_decal4.yy",},"order":16,},
     {"id":{"name":"spr_invisible_wall","path":"sprites/spr_invisible_wall/spr_invisible_wall.yy",},"order":4,},
