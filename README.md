@@ -8,7 +8,11 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 ***Features***:
 * Movment and Jumping
 * Collision
-* Custom Maps
+* Animated player - Works with jumping and walking
+* Title Screen
+* 4 Custom Maps that are linked together
+* Falling of sends player back to the start of the level and counts as a death
+* Functioning Death and Loop counters
 
 
 ***Notes***: 
