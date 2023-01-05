@@ -33,7 +33,7 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Not Visible",
+    "path": "folders/Objects/Not Visible.yy",
   },
 }
