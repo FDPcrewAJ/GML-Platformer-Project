@@ -5,7 +5,7 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 * [Platformer Tutorial (GML) - Par 1](https://youtu.be/2z4981CxFkw)
 * [Platformer Tutorial (GML) - Par 2](https://youtu.be/CUFm5DZm-A8)
 
-***Features***:
+**Features**:
 * Movment and Jumping
 * Collision
 * Animated player - Works with jumping and walking
