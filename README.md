@@ -1,9 +1,9 @@
-# GML-Platformer-Starter-Kit
+# GML-Platformer-Project
 
-A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**  
+**Platformer Tutorial (GML) - Parts 1 & 2**  
 
-* [Platformer Tutorial (GML) - Par 1](https://youtu.be/2z4981CxFkw)
-* [Platformer Tutorial (GML) - Par 2](https://youtu.be/CUFm5DZm-A8)
+* [Platformer Tutorial (GML) - Par 1](https://youtu.be/2z4981CxFkw)  -- Completed
+* [Platformer Tutorial (GML) - Par 2](https://youtu.be/CUFm5DZm-A8)  -- Completed
 
 **Features**:
 * Movment and Jumping
@@ -13,6 +13,7 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 * 4 Custom Maps that are linked together
 * Falling of sends player back to the start of the level and counts as a death
 * Functioning Death and Loop counters
+* Custom Tileset, background, and foreground graphics, made by me
 
 
 ***Notes***: 
